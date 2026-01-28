@@ -1,0 +1,6 @@
+{
+    "idf.portWin": "COM3",
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "C:/Users/gamer/OneDrive/Desktop/Microcontroladores/hello"
+}
